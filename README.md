@@ -34,7 +34,7 @@ In the `DsApi` project, locate the appsettings.json file.
 Update the connection string to match your SQL Server instance.
 ## Running the Application
 Ensure your SQL Server instance is running and accessible.
-Build and run the DsApi project in Visual Studio.
+Build and run both `DsWebApp` and `DsApi` project in Visual Studio.
 
 
 The application should now be running and accessible.
